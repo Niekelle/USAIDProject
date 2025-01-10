@@ -1,0 +1,11 @@
+{
+    "title": "Become a Supporter",
+    "description": "Be the first to know about our humanitarian relief efforts in times of emergency.",
+    "firstName": "First Name (Optional)",
+    "lastName": "Last Name (Optional)",
+    "email": "Email address",
+    "submit": "SUBMIT",
+    "submitting": "Submitting...",
+    "success": "Thank you for signing up!",
+    "error": "There was an error submitting your information."
+}

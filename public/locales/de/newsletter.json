@@ -1,0 +1,11 @@
+{
+    "title": "Werden sie Unterstützer",
+    "description": "Seien Sie der Erste, der von unseren humanitären Hilfsmaßnahmen in Notfällen erfährt.",
+    "firstName": "Vorname (Optional)",
+    "lastName": "Nachname (Optional)",
+    "email": "E-Mail-Adresse",
+    "submit": "ABSENDEN",
+    "submitting": "Wird gesendet...",
+    "success": "Danke für Ihre Anmeldung!",
+    "error": "Beim Senden Ihrer Informationen ist ein Fehler aufgetreten."
+}
