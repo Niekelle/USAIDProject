@@ -106,6 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - USAID for their support and collaboration
 - Rutgers University Computer Science Department
 - Professor Dr. Galathara Kahanda
+  
 =======
 # USAIDProject
 Web Development and Database Design Project for USAID that streamlines charitable giving to underprivileged children in Sri Lanka. Rutgers University senior capstone project.
